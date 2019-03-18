@@ -11,8 +11,6 @@ To reproducing the figures, clone the repo and follow the notebook titled `Scrip
 - [matplotlib](http://matplotlib.org/)
 - [scipy](https://www.scipy.org/)
 - [scikit learn](https://scikit-learn.org/stable/)
-
-And McNeuron package:
 - [McNeuron](https://github.com/BonsaiNet/McNeuron)
 
 ## References:
