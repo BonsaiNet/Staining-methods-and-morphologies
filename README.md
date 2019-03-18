@@ -7,11 +7,12 @@ To reproducing the figures, clone the repo and follow the notebook titled `Scrip
 
 ## Dependencies:
 
+- [McNeuron](https://github.com/BonsaiNet/McNeuron)
 - [numpy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scipy](https://www.scipy.org/)
 - [scikit learn](https://scikit-learn.org/stable/)
-- [McNeuron](https://github.com/BonsaiNet/McNeuron)
+
 
 ## References:
 Roozbeh Farhoodi, Benjamin J. Lansdell and Konrad P. Kording. "Quantifying how staining methods bias measurements of neuron morphologies." 
