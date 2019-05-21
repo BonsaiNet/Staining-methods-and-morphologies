@@ -13,8 +13,7 @@ To reproducing the figures, clone the repo and follow the notebook titled `Scrip
 - [scipy](https://www.scipy.org/)
 - [scikit learn](https://scikit-learn.org/stable/)
 
-
 ## References:
-Roozbeh Farhoodi, Benjamin J. Lansdell and Konrad P. Kording. "Quantifying how staining methods bias measurements of neuron morphologies." 
+Farhoodi, Roozbeh, Benjamin James Lansdell, and Konrad Paul Kording. "Quantifying how staining methods bias measurements of neuron morphologies." Frontiers in Neuroinformatics 13 (2019): 36.
 
-Contact: Roozbeh Farhoodi [roozbehfarhoodi@gmail.com]
+Contact: Roozbeh Farhoodi [roozbehfarhoudi@gmail.com]
